@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Output files you don't want in GitHub
+*.log
+.vscode/
+.DS_Store
+
+# folders
+Individual_Radii_Optical/
+Documentation/

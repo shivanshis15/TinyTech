@@ -25,8 +25,8 @@ host_indices = [1.00, 1.33, 1.45, 1.52, 1.60]
 
 # Updated to look inside the Dataset subfolder
 materials = {
-    "Au": os.path.join("Dataset", "au_nk.csv"),
-    "Ag": os.path.join("Dataset", "ag_nk.csv")
+    "Au":"au_nk.csv",
+    "Ag":"ag_nk.csv"
 }
 
 
